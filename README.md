@@ -97,3 +97,13 @@ Trained by *[cansik](https://github.com/cansik)*, datasets are described in the 
 All the demo images have been downloaded from [unsplash.com](https://unsplash.com/):
 
 Tim Marshall, Zachary Nelson, John Torcasio, Andy Falconer, Sherise, Alexis Brown
+
+---
+
+## CI Status
+
+All PRs are checked for:
+- ✅ Syntax (Python, JS, TS, YAML, JSON, Dockerfile, Shell)
+- ✅ Secrets (No hardcoded credentials)
+- ✅ Security (High-severity vulnerabilities)
+
